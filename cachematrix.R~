@@ -9,7 +9,6 @@
 
 
 ## The makeCacheMatrix`function creates a special "matrix" object that ## caches its inverse
-##
 ## The cacheSolve function computes the inverse of thematrix returned ## by `makeCacheMatrix` function. 
 ## If the inverse is already calculated  then `cacheSolve` retrieves ## the inverse from the cache.
 
